@@ -56,7 +56,7 @@ Ultimately, I am a builder who is dedicated to using data to solve real-world pr
 
 Power BI Project.
 - [Consumer Electronics Analysis](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis)
-- [Insurance Data Analysis](https://www.linkedin.com/in/hassanhammed/)
+- [Insurance Data Analysis](https://github.com/Hammed-Hassan/Insurance_Data_Analysis)
 
 SQL Projet
 - [Instagram account Analysis](https://github.com/Hammed-Hassan/Tech-Instagram-Influencer-Analysis-SQL)
