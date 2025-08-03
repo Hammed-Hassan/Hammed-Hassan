@@ -59,8 +59,7 @@ Power BI Project.
 - [Insurance Data Analysis](https://www.linkedin.com/in/hassanhammed/)
 
 SQL Projet
-- [Project 1](https://www.linkedin.com/in/hassanhammed/)
-- [Project 2](https://www.linkedin.com/in/hassanhammed/)
+- [Instagram account Analysis](https://github.com/Hammed-Hassan/Tech-Instagram-Influencer-Analysis-SQL)
 
 Excel Project. 
 - [Project 1](https://www.linkedin.com/in/hassanhammed/)
