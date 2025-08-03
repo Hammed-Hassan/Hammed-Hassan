@@ -66,5 +66,5 @@ Always on the lookout for new challenges. I'm available for freelance work and f
 #
 ### 📬 Let’s Connect
 - [linkedIn](https://www.linkedin.com/in/hassanhammed/)
-- [Email](hassanhammedoladimeji.hh@gmail.com)
+- [Email](mailto:hassanhammedoladimeji.hh@gmail.com)
 
