@@ -55,10 +55,16 @@ Ultimately, I am a builder who is dedicated to using data to solve real-world pr
 ### Data Analytics Projects 📚
 
 Power BI Project.
+- [Project 1](https://www.linkedin.com/in/hassanhammed/)
+- [project 2](https://www.linkedin.com/in/hassanhammed/)
+- [Project 3](https://www.linkedin.com/in/hassanhammed/)
 
 SQL Projet
+- [Project 1](https://www.linkedin.com/in/hassanhammed/)
+- [Project 2](https://www.linkedin.com/in/hassanhammed/)
 
 Excel Project. 
+- [Project 1](https://www.linkedin.com/in/hassanhammed/)
 
 #
 ### Let's Collaborate 🤝
