@@ -55,7 +55,7 @@ Ultimately, I am a builder who is dedicated to using data to solve real-world pr
 ### Data Analytics Projects 📚
 
 Power BI Project.
-- [Project 1](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis)
+- [Consumer Electronics Analysis](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis)
 - [project 2](https://www.linkedin.com/in/hassanhammed/)
 - [Project 3](https://www.linkedin.com/in/hassanhammed/)
 
