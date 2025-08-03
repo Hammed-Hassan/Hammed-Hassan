@@ -55,6 +55,9 @@ Ultimately, I am a builder who is dedicated to using data to solve real-world pr
 ### Data Analytics Projects 📚
 
 #
+### Let's Collaborate 🤝
+Always on the lookout for new challenges. I'm available for freelance work and full-time roles where data, technology, and a focus on impact intersect. Let’s connect and see what we can create together.
+#
 ### 📬 Let’s Connect
 - [linkedIn](https://www.linkedin.com/in/hassanhammed/)
 - [Email](hassanhammedoladimeji.hh@gmail.com)
