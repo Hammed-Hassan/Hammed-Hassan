@@ -12,31 +12,31 @@ Ultimately, I am a builder who is dedicated to using data to solve real-world pr
 
 #
 ### 🧠 Skills & Tools
- Programming & Analytics
+ 💡Programming & Analytics
  - SQL (PostgreSQL, MySQL, T-SQL)
  - Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
  - DAX
  - M (Power Query)
 
- Data Insights & Reporting
+💡 Data Insights & Reporting
 - Microsoft Excel (Advanced, Power Pivot, Power Query)
 - Power BI
 - Google Sheets
 
- Data Wrangling & Transformation
+ 💡Data Wrangling & Transformation
  - Excel Power Query
  - Python (Data Wrangling with Pandas)
  - CSV, JSON, XML
  - Microsoft Fabrics
 
- Project & Collaboration Tools
+ 💡Project & Collaboration Tools
  - Git & GitHub
  - Jupyter Notebook
  - Microsoft 365 (Word, PowerPoint, Teams)
  - Notion, Slack
  - Canva, Figma
 
- Soft Skills
+ 💡Soft Skills
  - Team Collaboration & Leadership
  - Data-Driven Problem-Solving
  - Critical Thinking
