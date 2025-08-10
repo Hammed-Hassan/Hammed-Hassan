@@ -62,7 +62,7 @@ SQL Projet
 - [Instagram account Analysis](https://github.com/Hammed-Hassan/Tech-Instagram-Influencer-Analysis-SQL)
 
 Excel Project. 
-- [Project 1](https://www.linkedin.com/in/hassanhammed/)
+- [Sales and Finance Analysis](https://github.com/Hammed-Hassan/Sales_and_Finance_Report)
 
 #
 ### Let's Collaborate 🤝
